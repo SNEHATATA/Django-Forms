@@ -1,2 +1,2 @@
 # Django-Forms
-By using CRUD operations, designed forms using Django framework
+Designed forms using Django framework by performing CRUD operations.
